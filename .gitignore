@@ -1,3 +1,8 @@
+generate_images/
+training/
+network-snapshot-020126.pkl
+renderer/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
